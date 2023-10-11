@@ -13,10 +13,15 @@ My repository is under the MIT license.
 The data types of the columns are shown as the following:
 
 "Round" = string 
+
 "Pick #" = float 
+
 "NFL Team" = string 
+
 "Player Name" = string 
+
 "Position" = string 
+
 "College" = string
 
 # Known or Potential Issues 
